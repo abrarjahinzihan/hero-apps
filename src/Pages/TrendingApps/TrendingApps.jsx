@@ -4,7 +4,7 @@ import TrendingApp from '../TrendingApp/TrendingApp';
 const TrendingApps = ({ data }) => {
     return (
         <div className="max-w-[1200px] mx-auto px-4 py-8">
-        <h2 className="text-center font-bold text-4xl">Trending Apps</h2>
+        <h2 className="text-center text-black font-bold text-4xl">Trending Apps</h2>
         <p className="text-center mt-1 text-gray-400 text-[16px]">
             Explore All Trending Apps on the Market developed by us
         </p>

@@ -5,7 +5,7 @@ import hero from "../../assets/hero.png";
 const Banner = () => {
     return (
         <div className="py-8 md:py-12">
-        <div className="text-center max-w-4xl mx-auto px-4">
+        <div className="text-center max-w-4xl mx-auto px-4 text-[#001931] ">
             <h1 className="text-4xl sm:text-5xl md:text-[72px] leading-snug md:leading-[1.1] font-bold">
             We Build <br />
             <span className="bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent">
