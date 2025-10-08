@@ -1,6 +1,6 @@
 [
     {
-        "image": "https://picsum.photos/400/300",
+        "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=400&h=300",
         "title": "FocusMaster",
         "companyName": "Mindset Labs",
         "id": 1,
@@ -10,15 +10,15 @@
         "ratingAvg": 4.6,
         "downloads": 50000,
         "ratings": [
-        { "name": "1 star", "count": 23 },
-        { "name": "2 star", "count": 57 },
-        { "name": "3 star", "count": 144 },
-        { "name": "4 star", "count": 367 },
-        { "name": "5 star", "count": 698 }
+            { "name": "1 star", "count": 23 },
+            { "name": "2 star", "count": 57 },
+            { "name": "3 star", "count": 144 },
+            { "name": "4 star", "count": 367 },
+            { "name": "5 star", "count": 698 }
         ]
     },
     {
-        "image": "https://picsum.photos/400/300",
+        "image": "https://images.unsplash.com/photo-1508780709619-79562169bc64?auto=format&fit=crop&w=400&h=300",
         "title": "SnapForge",
         "companyName": "PixelCraft",
         "id": 2,
@@ -28,15 +28,15 @@
         "ratingAvg": 4.2,
         "downloads": 120000,
         "ratings": [
-        { "name": "1 star", "count": 180 },
-        { "name": "2 star", "count": 200 },
-        { "name": "3 star", "count": 410 },
-        { "name": "4 star", "count": 600 },
-        { "name": "5 star", "count": 713 }
+            { "name": "1 star", "count": 180 },
+            { "name": "2 star", "count": 200 },
+            { "name": "3 star", "count": 410 },
+            { "name": "4 star", "count": 600 },
+            { "name": "5 star", "count": 713 }
         ]
     },
     {
-        "image": "https://picsum.photos/400/300",
+        "image": "https://picsum.photos/400/300?random=100",
         "title": "TaskFlow",
         "companyName": "NextGen Apps",
         "id": 3,
@@ -46,15 +46,15 @@
         "ratingAvg": 4.8,
         "downloads": 75000,
         "ratings": [
-        { "name": "1 star", "count": 9 },
-        { "name": "2 star", "count": 15 },
-        { "name": "3 star", "count": 58 },
-        { "name": "4 star", "count": 212 },
-        { "name": "5 star", "count": 688 }
+            { "name": "1 star", "count": 9 },
+            { "name": "2 star", "count": 15 },
+            { "name": "3 star", "count": 58 },
+            { "name": "4 star", "count": 212 },
+            { "name": "5 star", "count": 688 }
         ]
     },
     {
-        "image": "https://picsum.photos/400/300",
+        "image": "https://picsum.photos/400/300?random=200",
         "title": "Beatify",
         "companyName": "Harmony Studios",
         "id": 4,
@@ -64,15 +64,15 @@
         "ratingAvg": 4.4,
         "downloads": 340000,
         "ratings": [
-        { "name": "1 star", "count": 310 },
-        { "name": "2 star", "count": 289 },
-        { "name": "3 star", "count": 490 },
-        { "name": "4 star", "count": 1012 },
-        { "name": "5 star", "count": 1220 }
+            { "name": "1 star", "count": 310 },
+            { "name": "2 star", "count": 289 },
+            { "name": "3 star", "count": 490 },
+            { "name": "4 star", "count": 1012 },
+            { "name": "5 star", "count": 1220 }
         ]
     },
     {
-        "image": "https://picsum.photos/400/300",
+        "image": "https://picsum.photos/400/300?random=300",
         "title": "MoneyWise",
         "companyName": "FinSoft",
         "id": 5,
@@ -82,33 +82,15 @@
         "ratingAvg": 4.5,
         "downloads": 90000,
         "ratings": [
-        { "name": "1 star", "count": 55 },
-        { "name": "2 star", "count": 80 },
-        { "name": "3 star", "count": 220 },
-        { "name": "4 star", "count": 420 },
-        { "name": "5 star", "count": 655 }
+            { "name": "1 star", "count": 55 },
+            { "name": "2 star", "count": 80 },
+            { "name": "3 star", "count": 220 },
+            { "name": "4 star", "count": 420 },
+            { "name": "5 star", "count": 655 }
         ]
     },
     {
-        "image": "https://picsum.photos/400/300",
-        "title": "FitTrack",
-        "companyName": "ActiveCore",
-        "id": 6,
-        "description": "FitTrack offers a personalized fitness journey powered by AI. It tracks your workouts, sleep, and nutrition to build customized daily goals. The app includes hundreds of guided exercises, calorie analysis, and habit-building challenges to keep you motivated. Whether you’re a beginner or athlete, FitTrack adapts to your lifestyle for real progress.",
-        "size": 61,
-        "reviews": 2456,
-        "ratingAvg": 4.7,
-        "downloads": 180000,
-        "ratings": [
-        { "name": "1 star", "count": 70 },
-        { "name": "2 star", "count": 100 },
-        { "name": "3 star", "count": 270 },
-        { "name": "4 star", "count": 760 },
-        { "name": "5 star", "count": 1256 }
-        ]
-    },
-    {
-        "image": "https://picsum.photos/400/300",
+        "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&h=300",
         "title": "Galaxy Runner",
         "companyName": "NovaPlay",
         "id": 7,
@@ -118,15 +100,15 @@
         "ratingAvg": 4.1,
         "downloads": 450000,
         "ratings": [
-        { "name": "1 star", "count": 590 },
-        { "name": "2 star", "count": 320 },
-        { "name": "3 star", "count": 700 },
-        { "name": "4 star", "count": 1020 },
-        { "name": "5 star", "count": 1357 }
+            { "name": "1 star", "count": 590 },
+            { "name": "2 star", "count": 320 },
+            { "name": "3 star", "count": 700 },
+            { "name": "4 star", "count": 1020 },
+            { "name": "5 star", "count": 1357 }
         ]
     },
     {
-        "image": "https://picsum.photos/400/300",
+        "image": "https://images.unsplash.com/photo-1506765515384-028b60a970df?auto=format&fit=crop&w=400&h=300",
         "title": "LangHero",
         "companyName": "EduSpark",
         "id": 8,
@@ -136,11 +118,12 @@
         "ratingAvg": 4.9,
         "downloads": 600000,
         "ratings": [
-        { "name": "1 star", "count": 25 },
-        { "name": "2 star", "count": 35 },
-        { "name": "3 star", "count": 90 },
-        { "name": "4 star", "count": 390 },
-        { "name": "5 star", "count": 2350 }
+            { "name": "1 star", "count": 25 },
+            { "name": "2 star", "count": 35 },
+            { "name": "3 star", "count": 90 },
+            { "name": "4 star", "count": 390 },
+            { "name": "5 star", "count": 2350 }
         ]
     }
 ]
+
