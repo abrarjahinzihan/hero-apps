@@ -93,7 +93,7 @@
         "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&h=300",
         "title": "Galaxy Runner",
         "companyName": "NovaPlay",
-        "id": 7,
+        "id": 6,
         "description": "Galaxy Runner is a visually stunning space adventure where you pilot your ship through asteroid fields and alien territories. With intuitive controls, dynamic levels, and endless replayability, it’s a thrilling challenge for both casual and hardcore gamers. Compete in global leaderboards and unlock new ships as you master the galaxy.",
         "size": 104,
         "reviews": 3987,
@@ -111,7 +111,7 @@
         "image": "https://images.unsplash.com/photo-1506765515384-028b60a970df?auto=format&fit=crop&w=400&h=300",
         "title": "LangHero",
         "companyName": "EduSpark",
-        "id": 8,
+        "id": 7,
         "description": "LangHero makes language learning fun through gamified lessons, real-time conversations, and AI-powered pronunciation feedback. You can track progress, earn rewards, and practice daily with short interactive challenges. Covering over 20 languages, LangHero adapts to your pace and learning style, helping you build real conversational confidence quickly.",
         "size": 80,
         "reviews": 2890,
@@ -123,6 +123,24 @@
             { "name": "3 star", "count": 90 },
             { "name": "4 star", "count": 390 },
             { "name": "5 star", "count": 2350 }
+        ]
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?auto=format&fit=crop&w=400&h=300",
+        "title": "SleepWell",
+        "companyName": "ZenTech",
+        "id": 8,
+        "description": "SleepWell uses scientifically-proven techniques to help you fall asleep faster and wake up refreshed. Features include guided sleep meditations, soothing soundscapes, smart alarm that wakes you during light sleep phases, and sleep cycle tracking. The app analyzes your sleep patterns and provides personalized recommendations for better sleep hygiene and improved rest quality.",
+        "size": 58,
+        "reviews": 1876,
+        "ratingAvg": 4.7,
+        "downloads": 150000,
+        "ratings": [
+            { "name": "1 star", "count": 42 },
+            { "name": "2 star", "count": 68 },
+            { "name": "3 star", "count": 195 },
+            { "name": "4 star", "count": 512 },
+            { "name": "5 star", "count": 1059 }
         ]
     }
 ]
