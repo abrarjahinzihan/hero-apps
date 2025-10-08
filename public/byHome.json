@@ -1,0 +1,146 @@
+[
+    {
+        "image": "https://picsum.photos/400/300",
+        "title": "FocusMaster",
+        "companyName": "Mindset Labs",
+        "id": 1,
+        "description": "FocusMaster helps you train your mind to stay on track through structured Pomodoro sessions, task grouping, and ambient soundscapes. You can visualize your productivity trends, plan breaks efficiently, and block distracting apps. Designed for students, professionals, and creatives, FocusMaster blends minimalism with science-backed productivity principles to help you achieve deep focus every day.",
+        "size": 45,
+        "reviews": 1289,
+        "ratingAvg": 4.6,
+        "downloads": 50000,
+        "ratings": [
+        { "name": "1 star", "count": 23 },
+        { "name": "2 star", "count": 57 },
+        { "name": "3 star", "count": 144 },
+        { "name": "4 star", "count": 367 },
+        { "name": "5 star", "count": 698 }
+        ]
+    },
+    {
+        "image": "https://picsum.photos/400/300",
+        "title": "SnapForge",
+        "companyName": "PixelCraft",
+        "id": 2,
+        "description": "SnapForge turns your ordinary photos into professional-grade visuals with AI-powered filters, background removal, and smart color correction. It’s built for creators, influencers, and photographers who want speed without sacrificing quality. The app supports RAW images, one-tap beautification, and batch editing — making it a perfect all-in-one photo toolkit for mobile content creators.",
+        "size": 92,
+        "reviews": 2103,
+        "ratingAvg": 4.2,
+        "downloads": 120000,
+        "ratings": [
+        { "name": "1 star", "count": 180 },
+        { "name": "2 star", "count": 200 },
+        { "name": "3 star", "count": 410 },
+        { "name": "4 star", "count": 600 },
+        { "name": "5 star", "count": 713 }
+        ]
+    },
+    {
+        "image": "https://picsum.photos/400/300",
+        "title": "TaskFlow",
+        "companyName": "NextGen Apps",
+        "id": 3,
+        "description": "TaskFlow simplifies project management by combining to-do lists, progress tracking, and team collaboration into one intuitive interface. It allows you to set deadlines, assign priorities, and get smart reminders that keep your workflow smooth. Whether you’re managing personal goals or group projects, TaskFlow ensures you never miss what matters most.",
+        "size": 38,
+        "reviews": 982,
+        "ratingAvg": 4.8,
+        "downloads": 75000,
+        "ratings": [
+        { "name": "1 star", "count": 9 },
+        { "name": "2 star", "count": 15 },
+        { "name": "3 star", "count": 58 },
+        { "name": "4 star", "count": 212 },
+        { "name": "5 star", "count": 688 }
+        ]
+    },
+    {
+        "image": "https://picsum.photos/400/300",
+        "title": "Beatify",
+        "companyName": "Harmony Studios",
+        "id": 4,
+        "description": "Beatify is a lightweight, ad-free music player with a stunning design and high-quality sound engine. It allows you to create smart playlists, sync your music across devices, and even listen offline. With advanced equalizer settings, crossfade transitions, and AI-based recommendations, Beatify makes every listening session immersive and personalized.",
+        "size": 76,
+        "reviews": 3321,
+        "ratingAvg": 4.4,
+        "downloads": 340000,
+        "ratings": [
+        { "name": "1 star", "count": 310 },
+        { "name": "2 star", "count": 289 },
+        { "name": "3 star", "count": 490 },
+        { "name": "4 star", "count": 1012 },
+        { "name": "5 star", "count": 1220 }
+        ]
+    },
+    {
+        "image": "https://picsum.photos/400/300",
+        "title": "MoneyWise",
+        "companyName": "FinSoft",
+        "id": 5,
+        "description": "MoneyWise helps you take control of your finances with smart budgeting tools, expense tracking, and visual analytics. It automatically categorizes your spending, detects recurring subscriptions, and provides monthly reports that guide better decisions. Whether you’re saving for goals or managing bills, MoneyWise keeps every dollar accounted for effortlessly.",
+        "size": 52,
+        "reviews": 1430,
+        "ratingAvg": 4.5,
+        "downloads": 90000,
+        "ratings": [
+        { "name": "1 star", "count": 55 },
+        { "name": "2 star", "count": 80 },
+        { "name": "3 star", "count": 220 },
+        { "name": "4 star", "count": 420 },
+        { "name": "5 star", "count": 655 }
+        ]
+    },
+    {
+        "image": "https://picsum.photos/400/300",
+        "title": "FitTrack",
+        "companyName": "ActiveCore",
+        "id": 6,
+        "description": "FitTrack offers a personalized fitness journey powered by AI. It tracks your workouts, sleep, and nutrition to build customized daily goals. The app includes hundreds of guided exercises, calorie analysis, and habit-building challenges to keep you motivated. Whether you’re a beginner or athlete, FitTrack adapts to your lifestyle for real progress.",
+        "size": 61,
+        "reviews": 2456,
+        "ratingAvg": 4.7,
+        "downloads": 180000,
+        "ratings": [
+        { "name": "1 star", "count": 70 },
+        { "name": "2 star", "count": 100 },
+        { "name": "3 star", "count": 270 },
+        { "name": "4 star", "count": 760 },
+        { "name": "5 star", "count": 1256 }
+        ]
+    },
+    {
+        "image": "https://picsum.photos/400/300",
+        "title": "Galaxy Runner",
+        "companyName": "NovaPlay",
+        "id": 7,
+        "description": "Galaxy Runner is a visually stunning space adventure where you pilot your ship through asteroid fields and alien territories. With intuitive controls, dynamic levels, and endless replayability, it’s a thrilling challenge for both casual and hardcore gamers. Compete in global leaderboards and unlock new ships as you master the galaxy.",
+        "size": 104,
+        "reviews": 3987,
+        "ratingAvg": 4.1,
+        "downloads": 450000,
+        "ratings": [
+        { "name": "1 star", "count": 590 },
+        { "name": "2 star", "count": 320 },
+        { "name": "3 star", "count": 700 },
+        { "name": "4 star", "count": 1020 },
+        { "name": "5 star", "count": 1357 }
+        ]
+    },
+    {
+        "image": "https://picsum.photos/400/300",
+        "title": "LangHero",
+        "companyName": "EduSpark",
+        "id": 8,
+        "description": "LangHero makes language learning fun through gamified lessons, real-time conversations, and AI-powered pronunciation feedback. You can track progress, earn rewards, and practice daily with short interactive challenges. Covering over 20 languages, LangHero adapts to your pace and learning style, helping you build real conversational confidence quickly.",
+        "size": 80,
+        "reviews": 2890,
+        "ratingAvg": 4.9,
+        "downloads": 600000,
+        "ratings": [
+        { "name": "1 star", "count": 25 },
+        { "name": "2 star", "count": 35 },
+        { "name": "3 star", "count": 90 },
+        { "name": "4 star", "count": 390 },
+        { "name": "5 star", "count": 2350 }
+        ]
+    }
+]
